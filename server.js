@@ -6,7 +6,7 @@ app.use(express.json());
 // ─── CREDENTIALS ─────────────────────────────────────────────────
 const GHL_API_KEY     = process.env.GHL_API_KEY     || 'pit-da50c690-6f27-4eb3-add8-8c26fea28807';
 const GHL_LOCATION_ID = process.env.GHL_LOCATION_ID || 'QXAnXqg1dimyOsQinMyX';
-const GD_API_KEY      = process.env.GD_API_KEY      || '6fbd255faab903d6f0928cbaf42134cdef1fb5f0c8fd83f1056c8009bc990f380b0a05cbe977af64';
+const GD_API_KEY      = process.env.GD_API_KEY      || 'fc4614c78dc31e7695408b4c98440dc1418b57ee604e2b15729ce2a8f6d01e9a3bfddd779783fd17';
 const GD_COMPANY_ID   = process.env.GD_COMPANY_ID   || 'GD8EB92A5073';
 // ─────────────────────────────────────────────────────────────────
 
